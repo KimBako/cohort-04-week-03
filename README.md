@@ -33,7 +33,9 @@ Then:
 
 1. [Express Sandbox][curriculum-express-sandbox]
 
-If you want feedback, submit a pull request and tag an instructor. If you don't know what that sentence means then ask.
+If you want feedback, submit a pull request (PR) and tag an instructor. If you don't know what that sentence means then ask. If you're stuck submitting a PR and that's preventing you from getting feedback, push what you have up to GitHub and message an instructor for feedback.
+
+If you don't ask for feedback you won't get it.
 
 ## Theme: Prep For Capstone
 
@@ -95,7 +97,8 @@ At this point, everyone knows enough HTML, CSS, and JavaScript to dive into almo
 
 1. Become familiar with a CSS framework like [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) or [Bulma](https://bulma.io/)
 1. Build something with a graphing library like [Chart.js](https://www.chartjs.org/)
-1.
+1. Use the [Google Places API](https://developers.google.com/maps/documentation/javascript/places) to make some kind of interactive map
+1. Build a simple game using something like [Phaser.io](http://phaser.io/)
 
 ## Practice Opportunities — Back-End
 
